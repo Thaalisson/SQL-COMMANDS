@@ -1,2 +1,2 @@
 # SQL-COMMANDS
-SQL knowledge
+.SQL file containing SQL knowledge
